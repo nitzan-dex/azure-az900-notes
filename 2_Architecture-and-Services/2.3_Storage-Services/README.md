@@ -19,7 +19,9 @@ Storage tiers are configuration parameters you can define at the resource or acc
 4. Geo-zone Redundant (GZRS): ZRS in the primary region and LRS in secondary region. 16-nines durability.  
 5. Read-Access GRS, Read-Access GZRS: Allows reads from secondary region even if primary region is up and running.  
 
-• Describe storage account options and storage types
+### Describe storage account options and storage types
+== Add Here == 
+
 ### Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync
 **AzCopy** is a command line tool for moving files to and from locally, between storage accounts, and even between cloud service providers. You can also synchronize files (uni-directionally) so that all files saved in a source location gets moved to a target location automatically.  
 
