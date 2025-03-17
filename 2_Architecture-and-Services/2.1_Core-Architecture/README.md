@@ -11,15 +11,17 @@ Region pairs must be _at least_ 300 miles away from each other.
 
 
 ### Describe Azure resources and resource groups
-- A resource must belong to a single resource group.p
+- A resource must belong to a single resource group.
+- Hold resources with a shared lifecycle 
 - Resources inherits properties form their Resource group
   
+  
 ### Describe subscriptions
-A way of organizing resources and in terms of 
+A way of organizing resource groups and in terms of 
 1. billing
 2. access
 
-Contain Many Resource groups
+
 
 Why to use another Subscription
 - Subscription limits
