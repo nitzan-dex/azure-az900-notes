@@ -1,15 +1,12 @@
-### Describe the purpose of Azure Blueprints
-They're ways to define a template on the subscription or resource group level.  
-
-Blueprints are composed of _artifacts_. Artifacts are like the attributes of a blueprint, and can be a policy assignment, role assignment, or Azure Resource Manager template (infrastructre as code, explained in next section). 
-
-Blueprints can be versioned to keep track of updates made to the blueprint.  
+### Microsoft Purview
+A unified data governance service that helps organizations manage and govern their on-premises, multi-cloud, and SaaS data. 
 
 ### Describe the purpose of Azure Policy
-Enables you to define individual policies or groups of policies, aka initiatives. They help track whether any of your resources don't comply to a policy, or prevent noncompliant resources from being created in the first place. Azure Policies can be set at the resource, resource group, subscription, or management group level, and are inherited.  
+Enables you to define individual policies or groups of policies, aka initiatives. They help track whether any of your resources don't comply to a policy, or prevent noncompliant resources from being created.
+Azure Policies can be set at all scopes, and are inherited.  
 
 ### Describe the purpose of resource locks
-Resource locks are intended to prevent the accidental deletion or update of a resource. There are two types of locks:
+Prevent accidental deletion/mod, there are 2 types:
 1. prevents update but allow deletion
 2. read-only, prevents update and deletion.  
 
