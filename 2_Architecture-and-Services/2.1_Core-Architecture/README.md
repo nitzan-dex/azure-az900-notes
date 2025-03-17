@@ -8,6 +8,12 @@ An **Azure region** is a geographical designation of several physical data cente
 
 
 ### Describe Azure resources and resource groups
+== Do it ==
+
+### Describe Azure resources and resource groups
+== Do it ==
+
+### Describe Azure resources and resource groups
 Resources are the "fundamental" unit in Azure. A VM instance is an Azure resource. Resource groups are collections of resources. 
 
 - A resource must be part of a resource group
