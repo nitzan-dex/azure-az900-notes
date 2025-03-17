@@ -4,23 +4,12 @@
 ### Define cloud computing.
 Computing services provided over the internet.
 
-### Extra: Give examples of computing services.
-1. Compute power: Pay for the amount of RAM and quality of processor.
-2. Storage: Pay for how much disk space you use. Added bonus of easily replicating data across several servers. 
-
-### Extra: Difference between RAM and processor.
-RAM is the maximum "quantity" of work your computer can do at any given time. The processor is the speed at which you do the work.
-
 ### Extra: Why would I use a cloud service provider?
 - Pay only for the services used. 
 - Don't have to manage your own hardware resources.
 - Scale or de-scale quickly.
 
 ### Describe the shared responsibility model.
-The responsibilities of maintaining your cloud-hosted applications are shared between you and the cloud service provider.  
-
-How those responsibilities are split depend on the service you use.  
-
 The consumer will _always_ be responsible for the data you store, as well as who can access the data and on what kind of device (e.g. cell phone, computer, etc.).  
 
 The CSP will _always_ be responsible for the physical data center, physical host (i.e. the computer itself, I think), and physical network.
