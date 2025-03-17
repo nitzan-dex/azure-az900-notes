@@ -29,8 +29,6 @@ Predictable performance and cost.
 Azure services offer notifying if a service is out of compliance, or perfoming automatic software updates(Auto Managed in Paas And Saas).  
 
 ### Describe the benefits of manageability in the cloud
-The "what" and "how" of managing cloud resources. The training module calls these "" vs "management in" as the what and how, respecitively.  
-
 **Management of**
 - Autoscaling
 - Preconfigured templates
