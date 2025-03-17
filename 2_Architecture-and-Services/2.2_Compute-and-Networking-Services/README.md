@@ -48,7 +48,7 @@ Virtual networks are what allow your resources to communicate with each other, a
 
 **Azure Virtual Network** A logical representation of
 your network in Azure
-- Region
+- Regional
 - VMs in different VNETS cannot communicate by default
 
  **Subnets** Segment address space of
