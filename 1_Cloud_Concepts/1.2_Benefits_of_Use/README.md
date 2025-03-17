@@ -12,7 +12,7 @@ If they dont meet SLA they give discounts
 
 
 ### Describe the benefits of reliability and predictability in the cloud
-**Reliability(resiliency)**  
+**Reliability(resiliency and availability)**  
 
 **Scalablity**  
   Types: 
