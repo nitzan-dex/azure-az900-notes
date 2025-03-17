@@ -1,7 +1,7 @@
 ### Describe factors that can affect costs in Azure
 - resource type
 - consumption/usage
-- maintenance (deprovisioning a VM but forgetting to do so for the other resources created with it)
+- maintenance (deprovisioning a VM, but not it's associated resources like disks.)
 - geography
 - subscription type (e.g. trial account)
 - Azure MarketPlace: allows use of third party vendor tools, which themselves may incur their own costs.
