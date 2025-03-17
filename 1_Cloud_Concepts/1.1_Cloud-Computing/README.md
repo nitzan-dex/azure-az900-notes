@@ -49,9 +49,14 @@ Cloud models "define the deployment type of cloud resources." They're the "types
 	- Less control but cost advantages from economies of scale (i.e. hardware resources purchased in "bulk" by CSP, savings distributed to consumers)
 3. hybrid: A cloud utilizing both private and public clouds.
 	- Start with private cloud, then surges in demand can be handled by public cloud (because they're quicker to set up).
+### Identify appropriate use cases for each cloud model
+== Add stuff here ==
 
 ### Extra: What is multicloud?
 Using multiple CSPs. You may want to use a mish-mash of services. Or you may be migrating from one CSP to another.  
+
+### Describe the consumption-based model
+== Add stuff here ==
 
 ### Compare cloud pricing models.
 2 types:
@@ -60,4 +65,9 @@ Using multiple CSPs. You may want to use a mish-mash of services. Or you may be 
 2. Operational expenditure: On-demand payment, can pay for more resources if needed and stop paying for resources that aren't used.
 
 CSPs are OpEx.
+
+### Describe serverless
+== Add stuff here ==
+
+
 
