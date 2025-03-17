@@ -10,22 +10,33 @@ Computing services provided over the internet.
 - Scale or de-scale quickly.
 
 ### Describe the shared responsibility model.
-The consumer will _always_ be responsible for the data you store, as well as who can access the data and on what kind of device (e.g. cell phone, computer, etc.).  
+When using a cloud provider, you’ll always be responsible for:
 
-The CSP will _always_ be responsible for the physical data center, physical host (i.e. the computer itself, I think), and physical network.
+    data
+    edge devices
+    Identity
 
-_Infrastructure as a Service (IaaS)_ is a service giving minimal responsiblity to the CSP.  
-_Software as a Service (SaaS)_ gives minimal responsiblity to the user.  
-_Platform as a Service (PaaS)_ falls somewhere in between.  
+The cloud provider is always responsible for:
+
+    The physical datacenter
+    The physical network
+    The physical hosts
+
+Your service model will determine responsibility for things like:
+
+    Operating systems
+    Network controls
+    Applications
+    Identity and infrastructure
+
 
 ### Extra: What responsibilities fall "in-between" a IaaS and SaaS?
-1. Identity infrastructue management (e.g. if you use Azure Active Directory vs Auth0 for identity management)
+1. Identity 
 2. Applications
-3. Network controls (i.e. who can access your cloud-hosted resources on a network level)
-4. Operating System (i.e. choosing the underlying OS, updating it, etc.)
+3. Network controls
+4. Operating System 
 
-### Extra: Is the Azure Virtual Machines (VM) service SaaS, PaaS, or IaaS?
-IaaS because the user must update and secure the OS, manage network-level accessibility, provide any applications hosted on the VM, and specify how identity management will be provided.
+
 
 ### Define cloud models, including public, private, and hybrid.
 Cloud models "define the deployment type of cloud resources." They're the "types" of clouds, where a cloud is just a collection of services provided via the internet. 
