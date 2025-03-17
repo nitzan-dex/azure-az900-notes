@@ -19,7 +19,12 @@ Hosts a Windows desktop on the cloud that's accessible across devices and OS's.
 
 ### What is Azure Batch? 
 A platform for that creates and manages a pool of virtual machines, intended for large-scale _parallel_ and _high-performance computing_.
-  
+
+### Describe application hosting options, including web apps, containers, and virtual machines
+== Do it == 
+
+### Describe the resources required for virtual machines
+== Do it == 
 
 ### Describe application hosting options, including the Web Apps feature of Azure App Service, containers, and virtual machines
 If you want to host a web application, web api, or mobile application, you can do so using VM's or containers.  
