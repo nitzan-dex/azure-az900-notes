@@ -67,7 +67,7 @@ Using multiple CSPs. You may want to use a mish-mash of services. Or you may be 
 CSPs are OpEx.
 
 ### Describe serverless
-== Add stuff here ==
+CSP dynamically manage servers, to acheive stateless ephemeral computing.
 
 
 
