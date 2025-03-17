@@ -10,14 +10,14 @@ Depending on the service, Azure has different uptimes SLAs
 
 If they dont meet SLA they give discounts
 
-**Scalablity**  
-  Types: 
-1. Vertical  
-2. Horizontal  
 
 ### Describe the benefits of reliability and predictability in the cloud
 **Reliability(resiliency)**  
 
+**Scalablity**  
+  Types: 
+1. Vertical  
+2. Horizontal  
 
 **Predictability**  
 Predictable performance and cost.  
