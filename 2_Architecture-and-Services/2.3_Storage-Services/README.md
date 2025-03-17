@@ -22,7 +22,10 @@ Storage tiers are configuration parameters you can define at the resource or acc
 5. Read-Access GRS, Read-Access GZRS: Allows reads from secondary region even if primary region is up and running.  
 
 ### Describe storage account options and storage types
-== Add Here == 
+- Standard General-Purpose v2: Supports blobs, files, queues, tables. Redundancy: All.
+- Premium Block Blobs: High transaction rates, low latency. Supports block blobs, append blobs. Redundancy: LRS, ZRS.
+- Premium File Shares: High performance,SMB, NFS. Redundancy: LRS, ZRS.
+- Premium Page Blobs: Optimized for page blobs. Redundancy: LRS, ZRS.
 
 ### Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync
 **AzCopy** is a command-line tool for moving files locally, between storage accounts, and across cloud providers. It also supports file sync from a source to a target location.
